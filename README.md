@@ -1,7 +1,7 @@
 
 ## Regarding the porject
 The project is a [freeCodecamp.org](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/) Cypress couse. On it, I've learned how to perform simple web tests with JavaScript and Cypress.
-♥ <h1>Autoclick accordion menu test</h1>
+ <h1>♥ Autoclick accordion menu test</h1>
 The test aims to verify if all the accordion items on the page are functioning correctly  
 <img src="https://github.com/MihBarreto/Portifolio-QA-PTBR/blob/main/img/cypress-course.gif"/>
 
