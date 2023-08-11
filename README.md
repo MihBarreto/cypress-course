@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
 ## Regarding the porject
-The project is an [freeCodecamp.org](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/) Cypress couse. On it, I've learned how to perform simple web tests with JavaScript and Cypress.
+The project is a [freeCodecamp.org](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/) Cypress couse. On it, I've learned how to perform simple web tests with JavaScript and Cypress.
 
 <details>
 <summary>Infos about the project </summary>
